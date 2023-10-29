@@ -38,7 +38,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single-build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
 
@@ -78,7 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![hacktoberfest-banner](https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2023/10/02100331/1600_Hacktoberfest-scaled.jpg)
 
-Hacktoberfest, organized by DigitalOcean in partnership with GitHub and other sponsors, is a month-long celebration of open-source software that takes place every October. The event aims to motivate developers, newbies and veterans alike, to contribute to open-source projects. Participants can win swag, like T-shirts and stickers, by making a certain number of pull requests to open-source projects on GitHub during the month. It's a fantastic opportunity not only to give back to the community but also to learn and collaborate with developers from around the world. Want to start your open-source journey? [Learn more and register for Hacktoberfest!](https://hacktoberfest.digitalocean.com/)
+Hacktoberfest, organized by DigitalOcean in partnership with GitHub and other sponsors, is a month-long celebration of open-source software that takes place every October. The event aims to motivate developers, newbies, and veterans alike, to contribute to open-source projects. Participants can win swag, like T-shirts and stickers, by making a certain number of pull requests to open-source projects on GitHub during the month. It's a fantastic opportunity not only to give back to the community but also to learn and collaborate with developers from around the world. Want to start your open-source journey? [Learn more and register for Hacktoberfest!](https://hacktoberfest.digitalocean.com/)
 
 ## How to Contribute 💡
 
@@ -86,7 +86,7 @@ Hacktoberfest, organized by DigitalOcean in partnership with GitHub and other sp
 
   - **Fork**: Grab your personal copy by forking the repository.
   - **Clone**: Bring it on your local machine with git clone YOUR-REPO-LINK.
-  - **Setup**: Install necessary tools. Just run command.
+  - **Setup**: Install necessary tools. Just run the command.
 
   ### 2️⃣ Making Meaningful Changes
 
@@ -127,7 +127,7 @@ Examples of unacceptable behavior include:
 - Public or private harassment
 - Publishing others' private information, such as a physical or email address,
   without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
+- Other conduct that could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities 🕵️
